@@ -1,0 +1,47 @@
+body{
+    background-color:rgba(214, 226, 243, 0.808); background-image: :user-valid;
+text-align: center;  
+
+}
+table{
+    font-size: 22px;     
+}
+h1{
+    text-decoration: none;
+    text-transform: capitalize;
+  font-style: italic;
+   font-weight: bold;
+    text-align: center;
+    background-color: rgb(146, 177, 179);
+
+}
+a{text-decoration: none;
+    text-transform: capitalize;
+  font-style: italic;
+   font-weight: bold;
+   text-align: center;
+}
+a:hover{   
+    color: rgb(46, 163, 17);
+    text-decoration: underline;
+    transform-origin: 12px;   
+}
+a:active{
+    text-decoration: underline;
+font-weight:bold;
+color: brown;
+}
+ul{
+    font-size: 22px;
+    line-height: 36px;
+}
+p {
+font-style: italic ;
+color: blue;
+text-align:justify;
+font-weight: bold;
+word-spacing: 5px;
+font-size:16px;
+text-indent: 16px;
+}
+
